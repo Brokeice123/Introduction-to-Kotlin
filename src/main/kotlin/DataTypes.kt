@@ -1,11 +1,9 @@
 fun main(args: Array<String>) {
     //Integer or Int
     var age:Int = 20
-    var age = 30
     //Strings
     var name:String = "Muraya" //Double quotes are used
     //Double
-    var temperature = 36.4
     var temperature:Double = 36.4
     //Boolean{It can either be true or false}
     var Status = false
