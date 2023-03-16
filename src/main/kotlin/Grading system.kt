@@ -3,7 +3,7 @@ fun main(args: Array<String>) {
 
     var marks:Int = readLine()!!.toInt()
 
-    if (marks >= 80){
+    if (marks >= 100){
         print("A. Congratulations for the excellent job. Keep it up!")
     }
 
