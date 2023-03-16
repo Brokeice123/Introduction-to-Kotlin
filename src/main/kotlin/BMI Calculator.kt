@@ -1,6 +1,8 @@
 fun main(args: Array<String>) {
-    var weight = 100
-    var height = 1.5
+    println("Enter your Weight")
+    var weight:Int = readLine()!!.toInt()
+    println("Enter your Height")
+    var height:Float = readLine()!!.toFloat()
     var square = height * height
     var result = weight / square
 
